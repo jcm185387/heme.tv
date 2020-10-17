@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "heme.tv",
+  "short_name": "heme.tv",
+  "version": "com.inovateka.com",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Inovateka",
+  "icons": [
+    {
+      "src": "res/ic_launcher-playstore.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
